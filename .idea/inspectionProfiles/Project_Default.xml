@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="keras" />
+          <option value="Dropout" />
+          <option value="AdamW" />
+          <option value="Dense" />
+          <option value="Sequential" />
+          <option value="BatchNormalization" />
+          <option value="Adam" />
+          <option value="Conv1D" />
+          <option value="Flatten" />
+          <option value="InputLayer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
